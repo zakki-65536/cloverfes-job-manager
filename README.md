@@ -1,0 +1,2 @@
+# cloverfes-job-manager
+2023年度同志社クローバー祭実行委員会で使用していた業務効率化BOT
